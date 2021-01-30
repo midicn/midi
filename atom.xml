@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://midi.midicn.com</id>
+    <id>https://www.midicn.com</id>
     <title>中国midi音乐</title>
-    <updated>2021-01-30T13:25:43.643Z</updated>
+    <updated>2021-01-30T13:28:04.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://midi.midicn.com"/>
-    <link rel="self" href="https://midi.midicn.com/atom.xml"/>
+    <link rel="alternate" href="https://www.midicn.com"/>
+    <link rel="self" href="https://www.midicn.com/atom.xml"/>
     <subtitle>midi音乐下载，音乐制作，midi设备，midi软件</subtitle>
-    <logo>https://midi.midicn.com/images/avatar.png</logo>
-    <icon>https://midi.midicn.com/favicon.ico</icon>
+    <logo>https://www.midicn.com/images/avatar.png</logo>
+    <icon>https://www.midicn.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 中国midi音乐</rights>
     <entry>
         <title type="html"><![CDATA[midi音乐下载]]></title>
-        <id>https://midi.midicn.com/midi音乐下载/</id>
-        <link href="https://midi.midicn.com/midi音乐下载/">
+        <id>https://www.midicn.com/midi音乐下载/</id>
+        <link href="https://www.midicn.com/midi音乐下载/">
         </link>
         <updated>2021-01-30T13:11:54.000Z</updated>
     </entry>
