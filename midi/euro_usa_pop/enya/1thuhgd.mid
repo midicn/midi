@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>File not found! 没有找到文件！</title>
+	<meta HTTP-EQUIV="Refresh" CONTENT="5; URL=http://www.pchome.net">
+</head>
+<body bgcolor="white" text=red>
+<center>
+
+<h2><font color=blue>File not found! 没有找到文件！</font></h2>
+<p></p>
+<h3>我们修改了部分页面的URL,请前往</h3>
+<h3>电脑之家：<a href="http://www.pchome.net" target="_top">http://www.pchome.net</a></h3>
+<h3>请记得修改您的BOOKMARK！</h3>
+<p></p>
+<h3>We have modified some page's URL,Please goto </h3>
+<h3>PCHOME:<a href="http://www.pchome.net" target="_top">http://www.pchome.net</a></h3>
+<h3>Please remember change your bookmark!</h3>
+
+</center>
+</body>
+</html>
